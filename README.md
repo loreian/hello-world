@@ -1,3 +1,2 @@
 # hello-world
-Primo progetto di prova
-Modifico la versione del documento nel branch edits.
+AngularJS e Bootstrap sono due moderni framework open source che permettono di strutturare al meglio l'impiego di JavaScript e CSS. Il primo è stato rilasciato da Google e semplifica l'utilizzo di JavaScript nel front-end dei siti. Il secondo è stato realizzato da Twitter e permette di realizzare pagine responsive con grande facilità. Questo manuale guida il lettore all'apprendimento combinato di AngularJS e Bootstrap con un approccio pragmatico incentrato sulla creazione di una vera applicazione web, curandone la progettazione, lo sviluppo e la personalizzazione. Lo scopo finale è fare proprio un workflow funzionale e attuale, tenendosi alla larga dai problemi più comuni. 
